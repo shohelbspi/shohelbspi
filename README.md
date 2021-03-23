@@ -1,7 +1,6 @@
 - 👋 Hi, I’m  Shohel Hossain
 - 👀 I’m interested in Python, Machine Learning and Deep Learning
 - 🌱 I’m currently learning NLP
--
 - 📫 How to reach me https://www.facebook.com/sho.hel.14
 
 <!---
